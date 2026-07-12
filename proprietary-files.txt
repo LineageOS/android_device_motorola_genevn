@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from 14 U1TGNS34.42-86-2-25 0ec807-03750a release-keys.
+# All unpinned blobs below are extracted from 14 U1TGNS34.42-86-2-38 75e6c-32d474 release-keys.
 
 # ACDB Data
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.36_enpu2.pmd
