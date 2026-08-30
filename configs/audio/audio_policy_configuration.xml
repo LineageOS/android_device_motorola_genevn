@@ -412,7 +412,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         <xi:include href="/vendor/etc/r_submix_audio_policy_configuration.xml"/>
 
         <!-- qti non-offload configuration to support Hearing Aid and LHDC -->
-        <xi:include href="/vendor/etc/bluetooth_qti_audio_policy_configuration.xml"/>
+        <xi:include href="/vendor/etc/bluetooth_audio_policy_configuration_7_0.xml"/>
 
     </modules>
     <!-- End of Modules section -->
